@@ -1,2 +1,2 @@
-harsha.github.io
-My profile
+My profile: harsha.github.io
+
